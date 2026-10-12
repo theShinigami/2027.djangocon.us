@@ -1,0 +1,4 @@
+Sitemap: https://2027.djangocon.us/sitemap.xml
+
+User-agent: *
+Disallow:
